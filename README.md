@@ -1,14 +1,12 @@
-# 💼 Saowalak Meethong's Portfolio
-Welcome to my portfolio, I just started with a portfolio.  Each port is in beginner to intermediate skill level.
-## 📋 Contents
-- Power BI
+# 📝 Introducing Myself
+Hi, My name is Saowalak or my nickname is Yok. I am a 4th year student studying Information Studies at Srinakharinwirot University. Currently interested in a data-related job such as a data analyst, business analyst
+## 📈 Skill
+I have these skills at beginner to intermediate level and I am working on them to become more effective.🔥
+- Ms office (Ms Word, Ms Power Point, Ms Excel)
 - Tableau
-- My Certificate
-# Power BI
-|   Project Link  | Project Description |
-|------------------ | ------------------- |
-|[Data scientis job salary](https://github.com/SaowalakMeethong/Data-Scientist-Salary)  |Data is presented in the form of dashboards to illustrate the hiring and average pay of Data scientists, Data engineer, Data analyst and Machine research scientist.|
-# Tableau
-|   Project Link  | Project Description |
-|------------------ | ------------------- |
-|
+- Power BI
+- SQL
+## 📚 Portfolio
+This is [My Portfolio](https://github.com/SaowalakMeethong/MyPortfolio)
+
+
