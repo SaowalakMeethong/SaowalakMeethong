@@ -7,4 +7,4 @@ Welcome to my portfolio, I just started with a portfolio.  Each port is in begin
 # Power BI
 |Project Link | Project Description | Dashboard Link|
 |------------ | ------------------- | ------------- |
-|
+|[Data scientis job salary](https://github.com/SaowalakMeethong/Data-Scientist-Salary)|
