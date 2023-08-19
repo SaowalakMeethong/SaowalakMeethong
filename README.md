@@ -5,7 +5,7 @@ I have these skills at beginner to intermediate level and I am working on them t
 - Ms office (Ms Word, Ms Power Point, Ms Excel)
 - Tableau
 - Power BI
-- SQL
+- SQL (Interested & Studying)
 ## 📚 Portfolio
 This is [My Portfolio](https://github.com/SaowalakMeethong/MyPortfolio)
 
